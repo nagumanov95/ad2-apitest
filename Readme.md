@@ -11,7 +11,7 @@
 1. Откройте проект в **Visual Studio 2022** или через терминал.
 ````
 
-3. Откройте Swagger UI в браузере:
+2. Откройте Swagger UI в браузере:
 
    ```
    https://localhost:5282/swagger/index.html
