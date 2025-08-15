@@ -14,7 +14,7 @@
 2. Откройте Swagger UI в браузере, если сайт не запустился автоматически:
 
    ```
-   https://localhost:5282/swagger/index.html
+   https://localhost:7210/swagger/index.html
    ```
 
 ---
