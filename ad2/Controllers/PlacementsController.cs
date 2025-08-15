@@ -7,7 +7,7 @@ namespace ad2.Controllers
     [Route("api/[controller]")]
     public class PlacementsController : ControllerBase
     {
-        // Хранение в кеше
+        // Хранение в оперативной памяти
         private static ConcurrentDictionary<string, HashSet<string>> _map = new(StringComparer.OrdinalIgnoreCase);
 
         [HttpPost("upload")]
