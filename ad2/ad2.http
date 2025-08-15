@@ -1,0 +1,6 @@
+@ad2_HostAddress = http://localhost:5282
+
+GET {{ad2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
